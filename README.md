@@ -1,2 +1,2 @@
 # relax
-Prints user random relaxation oriented quotes. 
+Prints the user a random relaxation oriented quote. 
